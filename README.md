@@ -1,5 +1,5 @@
 # 'Stochastic projection based approach for gradient free physics informed learning '
-The repository provides the python codes for the numerical examples illustrated in the paper ‘tochastic projection based approach for gradient free physics informed
+The repository provides the python codes for the numerical examples illustrated in the paper ‘stochastic projection based approach for gradient free physics informed
 learning’.
  We request go through the paper to understand the implemented algorithm.
 
